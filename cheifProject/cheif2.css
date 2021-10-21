@@ -1,0 +1,239 @@
+@media only screen and (max-width:576px){
+
+.container{
+	width:100%;
+	box-sizing:border-box;
+}
+.header{
+	background: url('img/intro-bg.jpg');
+	width:100%;
+	height:500px;
+	background-size:100% 100%;
+	box-sizing:border-box;
+	
+	
+}
+.col {
+	width:90%;
+	box-sizing:border-box;
+}	
+.touch {
+	width:100%;
+	box-sizing:border-box;
+	text-align:center;
+}
+.detail {
+	width:100%;
+	box-sizing:border-box;
+	text-align:center;
+}
+.detail ul{
+	padding:0px;
+	list-style:none;
+	font-size:18px;
+}
+
+.detail li{
+	display:block;
+	padding-top:2%;
+}
+.center {
+	width:100%;
+	color:white;
+	letter-spacing: 4px;
+	box-sizing:border-box;
+	position:relative;
+	left:0%;
+}
+.mid1 {
+	width:100%;
+	text-align:center;
+}
+
+.mid2 {
+	width:100%;
+	text-align:center;
+}
+.mid2 h1 {
+    padding-bottom: 10px;
+    position: relative;
+	color:black;
+	font-size:16px;
+}
+.mid2 h1:before{
+    content: "";
+    position: absolute;
+    width: 20%;
+    bottom: 0;
+    left: 40%;
+    border-bottom: 2px solid #a6c46d;
+}
+.menu {
+	width:100%;
+	height:200px;
+}
+
+.box1 h1:before{
+	border-bottom:3px solid white;
+	width:30%;
+	left:35%;
+}
+.box1 {
+	font-weight:light;
+	color:#a6c46d;
+}
+.box1 h1{
+	font-size:18px;
+}
+.box1 p{
+	font-size:12px;
+}
+
+.rate1 {
+	width:100%;
+}
+.rate1 h1 {
+	font-size:16px;
+}
+.rate2 {
+	width:100%;
+}
+.gallery h3 {
+	font-size:16px;
+}
+.gallery h3:before{
+    width: 40%;
+    left: 30%;
+}
+.gallery p {
+	font-size:12px;
+}
+.button li{
+	display:block;
+	padding-top:2%;
+}
+.p1{
+	width:90%;
+	height:200px;
+	margin-top:2%;
+}
+.p2{
+	width:90%;
+	height:200px;
+	margin-top:2%;
+}
+.p3{
+	width:90%;
+	height:200px;
+	margin-top:2%;
+}
+.p4{
+	width:90%;
+	height:200px;
+	margin-top:2%;
+}
+.p5{
+	width:90%;
+	height:200px;
+	margin-top:2%;
+}
+.p6{
+	width:90%;
+	height:200px;
+	margin-top:2%;
+}
+.p7{
+	width:90%;
+	height:200px;
+	margin-top:2%;
+}
+.p8{
+	width:90%;
+	height:200px;
+	margin-top:2%;
+}
+.p9{
+	width:90%;
+	height:200px;
+	margin-top:2%;
+}
+.last {
+	height:820px;
+}
+.last1 h2{
+	font-size:16px;
+	
+}
+
+.xl {
+	width:100%;
+	margin-left:0%;
+	margin-top:0%;
+}
+.l {
+	width:25%;
+	text-align:center;
+	color:white;
+	font-family:arial;
+	position:relative;
+	left:30%;
+	margin-left:5%;
+}
+.m {
+	width: 82%;
+    height: 65%;
+    border: 1px solid white;
+    position: absolute;
+    bottom: 31%;
+    left: 8%;
+    opacity: 0.5;
+	
+}
+.border h3 {
+	font-size:8px;
+	text-align:center;
+}
+.contact h2{
+	font-size:14px;
+}
+.contact h2:before{
+	left:26%;
+	width:50%;
+	
+}
+.mainform1 {
+	width:100%;
+
+}
+.mainform2 {
+	width:100%;
+
+}
+.mainform3 {
+	width:100%;
+
+}
+.mainform3 textarea {
+	width:90%;
+	margin-left:5%;
+}
+.mainform4 input {
+	width:40%;
+}
+.footer1 {
+	width:100%;
+}
+.footer2 {
+	width:100%;
+}
+.footer3 {
+	width:100%;
+}
+.end1 p {
+	font-size:8px;
+}
+.end1 span {
+	font-size:12px;
+}
+
+}
